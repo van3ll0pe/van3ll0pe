@@ -36,3 +36,11 @@ I'm currently at Bordeaux University to get the *Bachelor of science computing*
 - OS :
   - Windows
   - linux (fedora) *mainly*
+
+---
+
+## My stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=van3ll0pe&theme=modern-lilac2)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=van3ll0pe&layout=compact&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
