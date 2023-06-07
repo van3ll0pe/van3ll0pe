@@ -12,7 +12,7 @@ I'm currently at Bordeaux University to get the *Bachelor of science computing*
 
 - scientific baccalaureate
 - bts sio option sisr
-- *(bachelor of science computing)*
+- currently *(licence of science computer)*
 
 ---
 
