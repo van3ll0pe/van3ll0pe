@@ -20,10 +20,10 @@ I'm currently at Bordeaux University to get the *Bachelor of science computing*
 
 - languages :
   - C
+  - C++
   - JAVA
   - PYTHON
   - shell
-  - Z80 assembly
 
 - tools :
   - gcc
