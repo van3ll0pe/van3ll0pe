@@ -1,14 +1,15 @@
-# Welcome !
-
-I'm **van3ll0pe** but also known as **Arthur**.<br>
-I'm 22 years old, and I love programming and especially in low-level, system programming and emulation. <br>
+# Welcome ! 👋
 
 
-I'm currently at Bordeaux University to get the *Bachelor of science computing*
+I'm **van3ll0pe** 🧑‍💻<br>
+I'm 22 years old, and I love programming and especially in low-level, system programming and emulation. 👾<br>
+
+
+I'm currently at Bordeaux University to get the *Bachelor of science computing* 🇫🇷
 
 ---
 
-## My degrees
+## My degrees 📋
 
 - scientific baccalaureate
 - bts sio option sisr
@@ -16,9 +17,9 @@ I'm currently at Bordeaux University to get the *Bachelor of science computing*
 
 ---
 
-## My skills
+## My skills 📚
 
-- languages :
+- languages : 🗣
   - C
   - C++
   - JAVA
@@ -31,8 +32,9 @@ I'm currently at Bordeaux University to get the *Bachelor of science computing*
   - git
   - Makefile
   - vscode
+  - cmake
  
-- OS :
+- OS : 💾
   - Windows
   - linux (fedora) *mainly*
 
