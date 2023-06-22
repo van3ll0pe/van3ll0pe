@@ -2,7 +2,7 @@
 
 
 I'm **van3ll0pe** 🧑‍💻<br>
-I'm 22 years old, and I love programming and especially in low-level, system programming and emulation. 👾<br>
+I'm 22 years old, and I love programming, especially in low-level, system programming and emulation. 👾<br>
 
 
 I'm currently at Bordeaux University to get the *Bachelor of science computing* 🇫🇷
@@ -21,7 +21,8 @@ I'm currently at Bordeaux University to get the *Bachelor of science computing* 
 
 - languages : 🗣
   - C
-  - C++
+  - C++    ❤️
+  - C#     ❤️
   - JAVA
   - PYTHON
   - shell
