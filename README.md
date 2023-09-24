@@ -26,7 +26,6 @@ I'm currently at Bordeaux University to get the *Bachelor of science computing* 
   - JAVA
   - PYTHON
   - shell
-  - *learning rust*
 
 - tools :
   - gcc
