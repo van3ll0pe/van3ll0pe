@@ -26,6 +26,7 @@ I'm currently at Bordeaux University to get the *Bachelor of science computing* 
   - JAVA
   - PYTHON
   - shell
+  - assembly
 
 - tools :
   - gcc
@@ -37,7 +38,7 @@ I'm currently at Bordeaux University to get the *Bachelor of science computing* 
  
 - OS : 💾
   - Windows
-  - linux (fedora) *mainly*
+  - linux (pop!os) *mainly*
 
 ---
 
