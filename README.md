@@ -20,9 +20,8 @@ I'm currently at Bordeaux University to get the *Bachelor of science computing* 
 ## My skills 📚
 
 - languages : 🗣
-  - C      ❤️
+  - C
   - C++    
-  - C#     ❤️
   - JAVA
   - PYTHON
   - shell
