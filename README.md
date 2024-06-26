@@ -4,16 +4,13 @@
 I'm **van3ll0pe** 🧑‍💻<br>
 I'm 23 years old, and I love programming, especially in low-level, system programming and emulation. 👾<br>
 
-
-I'm currently at Bordeaux University to get the *Bachelor of science computing* 🇫🇷
-
 ---
 
 ## My degrees 📋
 
 - scientific baccalaureate
 - bts sio option sisr
-- currently *(licence of science computer)*
+- Licence of science programming
 
 ---
 
@@ -37,7 +34,7 @@ I'm currently at Bordeaux University to get the *Bachelor of science computing* 
  
 - OS : 💾
   - Windows
-  - linux (pop!os) *mainly*
+  - linux (fedora)
 
 ---
 
